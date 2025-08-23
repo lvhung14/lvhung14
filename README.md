@@ -10,13 +10,14 @@
 - 🏦 I'm Android Engineer working at Korea
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily: **.java** and **.kt** 
-- 📖 I am currently reading **Guns, Germs, and Steel: The Fates of Human Societies** by Jared Diamond
-- 💬 Talk to me about algorithm, java (both of these are not any kind of insect or animals), android & lifestyle
+- 📖 I am currently reading **Deep work** by Cal Newport
+- 💬 Talk to me about algorithm, java (both of these are not any kind of insect or animals), android & kotlin
 - 👯 We can connect to talk with each other
 - 🧑‍💻 Tech I work on :
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Vim" width="55" height="55"/> 
 </p>
 
