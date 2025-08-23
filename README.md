@@ -17,7 +17,7 @@
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="Android" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Vim" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="Vim" width="55" height="55"/> 
 </p>
 
